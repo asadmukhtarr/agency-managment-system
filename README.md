@@ -303,102 +303,102 @@ Agency-ERP-CRM
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## CRM
 
-![CRM Dashboard](screenshots/crm/dashboard.png)
+![CRM Dashboard](crm/dashboard.png)
 
-![Leads](screenshots/crm/leads.png)
+![Leads](crm/leads.png)
 
-![Communications](screenshots/crm/communications.png)
+![Communications](crm/communications.png)
 
-![Client Types](screenshots/crm/client_type.png)
+![Client Types](crm/client_type.png)
 
-![Work Types](screenshots/crm/Work_type.png)
+![Work Types](crm/Work_type.png)
 
 ---
 
 ## Client Management
 
-![Clients](screenshots/client/client_management.png)
+![Clients](client/client_management.png)
 
-![New Client](screenshots/client/new_client.png)
+![New Client](client/new_client.png)
 
 ---
 
 ## Project Management
 
-![Projects](screenshots/project_manegement/Management.png)
+![Projects](project_manegement/Management.png)
 
-![Create Project](screenshots/project_manegement/create_new_project.png)
+![Create Project](project_manegement/create_new_project.png)
 
-![Milestones](screenshots/project_manegement/milestone.png)
+![Milestones](project_manegement/milestone.png)
 
-![Payments](screenshots/project_manegement/payments.png)
+![Payments](project_manegement/payments.png)
 
 ---
 
 ## Services
 
-![Services](screenshots/services/management.png)
+![Services](services/management.png)
 
 ---
 
 ## Products
 
-![Products](screenshots/products/management.png)
+![Products](products/management.png)
 
 ---
 
 ## Portfolio
 
-![Portfolio](screenshots/portfolio/portfolio.png)
+![Portfolio](portfolio/portfolio.png)
 
 ---
 
 ## Estimates
 
-![Estimates](screenshots/estimate/estimates.png)
+![Estimates](estimate/estimates.png)
 
 ---
 
 ## Quotations
 
-![Quotations](screenshots/qoutations/qoutations.png)
+![Quotations](qoutations/qoutations.png)
 
 ---
 
 ## Pricing
 
-![Pricing](screenshots/pricing/plans.png)
+![Pricing](pricing/plans.png)
 
 ---
 
 ## Blog
 
-![Posts](screenshots/blog/posts.png)
+![Posts](blog/posts.png)
 
 ---
 
 ## Users
 
-![Users](screenshots/users/management.png)
+![Users](users/management.png)
 
 ---
 
 ## General Settings
 
-![Settings](screenshots/general/settings.png)
+![Settings](general/settings.png)
 
 ---
 
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/agency-erp-crm.git
+git https://github.com/asadmukhtarr/agency-managment-system
 
 cd agency-erp-crm
 
